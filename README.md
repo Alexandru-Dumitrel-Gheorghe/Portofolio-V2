@@ -131,16 +131,3 @@ Dies ist das GitHub-Repository für das Portfolio von Alexandru Gheorghe. Hier f
 ## Code-Übersicht
 
 ### Aktive Links
-
-Der folgende Code sorgt dafür, dass das angeklickte Navigationselement als aktiv markiert wird:
-
-```javascript
-const navlink = document.querySelectorAll(".nav__link");
-
-function activeLink() {
-  navlink.forEach((a) => a.classList.remove("active-link"));
-  this.classList.add("active-link");
-}
-
-navlink.forEach((a) => a.addEventListener("click", activeLink));
-```
