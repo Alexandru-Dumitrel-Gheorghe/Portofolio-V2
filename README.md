@@ -132,4 +132,4 @@ Dies ist das GitHub-Repository für das Portfolio von Alexandru Gheorghe. Hier f
 
 ### Aktive Links
 
-[https://chipper-truffle-1aca46.netlify.app/](Portofolio)
+[Portofolio](https://chipper-truffle-1aca46.netlify.app/)
