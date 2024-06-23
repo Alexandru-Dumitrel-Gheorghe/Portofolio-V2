@@ -1,134 +1,56 @@
-# AlexandruPortofolio
+# Portfolio - Alexandru Gheorghe
 
-# Alexandru Gheorghe - Junior Frontend Developer
+This repository contains the HTML, CSS, and JavaScript code for the portfolio website of Alexandru Gheorghe, a junior frontend developer.
 
-Welcome to my GitHub profile! I'm Alexandru Gheorghe, a passionate Junior Frontend Developer dedicated to creating engaging and user-friendly web applications and websites. With a keen eye for detail and a strong grasp of modern web technologies, I continually strive to enhance my skills and develop innovative solutions.
+## Table of Contents
 
-## About Me
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
-- **Name**: Alexandru Gheorghe
-- **Age**: 31
-- **Phone**: 8 (234) 456-33-33
-- **Email**: gheorghe.a@outlook.com
+## Overview
 
-### Social Media
-
-- [GitHub](https://github.com/Alexandru-Dumitrel-Gheorghe)
-- [LinkedIn](https://www.linkedin.com/)
-- [Facebook](https://www.facebook.com/)
-
-## Portfolio
-
-### Projects
-
-#### 1. Frozen Delights
-
-A visually appealing and functional website for a fictional frozen treats company.
-
-- **Stack**: HTML5, CSS3, Bootstrap
-- **Description**: A project showcasing a range of delicious frozen delights.
-- **Live Demo**: [Frozen Delights](https://cool-lamington-fb814f.netlify.app/)
-
-#### 2. Age Calculator
-
-A simple and accurate age calculator tool.
-
-- **Stack**: HTML5, CSS3, JavaScript
-- **Description**: Calculate your age precisely with this handy tool.
-- **Live Demo**: [Age Calculator](https://super-mermaid-8a5d9f.netlify.app/)
-
-#### 3. Employee Management
-
-A web application for managing employee information effectively.
-
-- **Stack**: HTML5, CSS3, JavaScript
-- **Description**: Manage your employees efficiently with this comprehensive tool.
-- **Live Demo**: [Employee Management](https://6665ac94df48c5d14ea1b23b--frolicking-medovik-cb3cab.netlify.app/)
-
-## Skills
-
-### Frontend Development
-
-- **HTML**: 90%
-- **CSS**: 80%
-- **JavaScript**: 60%
-- **React**: 85%
-
-### Frameworks and Tools
-
-- **Bootstrap**: 90%
-- **Node.js**: 80%
-- **GitHub**: 60%
-- **GitBash**: 85%
-
-## Education
-
-### Weiterführende Schulen Nichifor Ludovig
-
-- **Years**: 2000 - 2007
-- **Description**: Grundschule in Rumänien
-
-### Technisches Gymnasium Anghel Saligny
-
-- **Years**: 2007 - 2011
-- **Description**: Automatisierungselektronik
-
-### IT School
-
-- **Years**: 2023
-- **Description**:
-  - Web Development
-  - Frontend-Entwicklung
-  - Frameworks und Bibliotheken
-  - Responsive Design
-
-## Work Experience
-
-### JavaScript
-
-- **Description**: Proficient in JavaScript, widely used for web development.
-
-### HTML
-
-- **Description**: Skilled in HTML, the standard markup language for creating web pages.
-
-### CSS
-
-- **Description**: Proficient in CSS, used to style and layout web pages.
-
-## Services
-
-- **Web Design**: Ensuring each website is both functional and visually appealing.
-- **Web Development**: Seamlessly integrating all components for an optimal user experience.
-- **Creative Design**: Combining creativity with strategic thinking to develop unique designs.
-
-## Latest Blog Posts
-
-- **How to Use CSS Preprocessor**: [Read More](blog_details.html)
-- **Wie ich meine Arbeit mit Code organisiere**: [Read More](blog_details.html)
-- **SVG Sprites vs Icon Font**: [Read More](blog_details.html)
-
-## Contact
-
-- **Phone**: 8 (234) 456-33-33
-- **Name**: Alexandru
-- **Email**: gheorghe.a@outlook.com
-
-Feel free to get in touch for collaborations or any queries. Let's build something amazing together!
-
-# Portfolio von Alexandru Gheorghe
-
-Dies ist das GitHub-Repository für das Portfolio von Alexandru Gheorghe. Hier findest du den Quellcode für die Webseite, die verschiedene interaktive Elemente enthält, um die Projekte und Fähigkeiten von Alexandru Gheorghe darzustellen.
+This website serves as a portfolio for Alexandru Gheorghe, showcasing his skills, projects, and contact information. It includes sections for home, services, resume, skills, projects, testimonials, blog posts, and a contact form.
 
 ## Features
 
-- **Aktive Links**: Navigationselemente, die den aktiven Zustand anzeigen.
-- **Mixitup Filter**: Eine Filterfunktion für die Projekte.
-- **Swiper Testimonials**: Ein Slider für Testimonials mit Swiper.js.
-- **Scroll to Top**: Ein Button, um zum Seitenanfang zu scrollen.
-- **Cookie Banner**: Ein einfaches Cookie-Banner, das den Benutzer darüber informiert und die Zustimmung speichert.
+- Responsive design
+- Navigation menu with smooth scrolling
+- Interactive sections like testimonials slider and project filtering
+- Contact form with emailJS integration for sending emails
+- Social media links and downloadable CV
 
-## Code-Übersicht
+## Technologies
+
+- HTML5
+- CSS3 (including custom styles and skins)
+- JavaScript (for interactive elements and emailJS integration)
+- Swiper.js (for testimonials slider)
+- Remixicons (for icons)
+- EmailJS (for sending emails)
+- Google Fonts API (for custom fonts)
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/Alexandru-Dumitrel-Gheorghe/Portfolio.git`
+2. Navigate into the project directory.
+
+## Usage
+
+Open the `index.html` file in your web browser.
+
+## Contributing
+
+Contributions are welcome! Follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/improvement`).
+3. Make modifications and commit changes (`git commit -am 'Add feature'`).
+4. Push to the branch (`git push origin feature/improvement`).
+5. Create a pull request.
 
 ### Aktive Links
 
